@@ -98,7 +98,7 @@ This gives us a **clean interface between LLM and video editing**, with minimal 
 
 ---
 
-> Made with ❤️ by Hussain Alyafei
+> Made with ❤️ by Hussain Alyafei 
 > License: MIT
 
 ---
